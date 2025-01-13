@@ -1,16 +1,16 @@
 Reconhecimento de Celebridades com Amazon Rekognition
 
-**Descrição do Projeto**
+  **Descrição do Projeto**
 
   Este projeto utiliza o Amazon Rekognition, um serviço de aprendizado profundo da AWS, para identificar celebridades em imagens. A aplicação processa imagens fornecidas, detecta rostos de celebridades conhecidas, e marca os rostos detectados com caixas delimitadoras e nomes.
 
-**Funcionalidades**
+   **Funcionalidades**
 
   Reconhecimento Automático: Identificação de celebridades em imagens.
   Marcação Visual: Adição de caixas delimitadoras ao redor dos rostos detectados e anotação com os nomes das celebridades.
   Configuração Personalizável: Fácil troca de imagens e fontes.
 
-**Tecnologias Utilizadas**
+  **Tecnologias Utilizadas**
 
   Python: Linguagem principal do projeto.
   Amazon Rekognition: Serviço de aprendizado profundo para reconhecimento de celebridades.
