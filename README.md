@@ -33,7 +33,7 @@ Reconhecimento de Celebridades com Amazon Rekognition
   Rostos detectados são destacados com caixas delimitadoras.
   Nomes das celebridades são adicionados próximos às caixas.
   
-  Saída Final: A imagem processada é salva no mesmo diretório com o nome original acrescido de -resultado.
+  Saída Final: A imagem processada é salva no mesmo diretório com o nome original do arquivo.
 
 **Possibilidades e Expansões**
 
